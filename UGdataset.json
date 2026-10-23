@@ -1,0 +1,51 @@
+[
+    {
+        "stage_name": "Nettspend",
+        "real_name": "Gunner Shepardson",
+        "age": 19,
+        "origin": "Richmond, Virginia",
+        "biggest_project": "BAD ASS F*CKING KID (2024)"
+    },
+    {
+        "stage_name": "OsamaSon",
+        "real_name": "Amari Deshawn Adham Middleton",
+        "age": 23,
+        "origin": "Goose Creek, South Carolina",
+        "biggest_project": "Flex Musix (2023)"
+    },
+    {
+        "stage_name": "xaviersobased",
+        "real_name": "Xavier Lopez",
+        "age": 22,
+        "origin": "New York City, New York",
+        "biggest_project": "Keep It Goin Xav (2024)"
+    },
+    {
+        "stage_name": "Che",
+        "real_name": "Chase Shaun Mitchell",
+        "age": 20,
+        "origin": "Atlanta, Georgia",
+        "biggest_project": "Sayso Says (2024)"
+    },
+    {
+        "stage_name": "Diskoteque",
+        "real_name": "Henry Runar Pimme Rasmussen",
+        "age": 19,
+        "origin": "Varberg, Sweden",
+        "biggest_project": "Dancefloor Death (2026)"
+    },
+    {
+        "stage_name": "1oneam",
+        "real_name": "Zenon Joseph Castillo",
+        "age": 22,
+        "origin": "Greendale, Wisconsin",
+        "biggest_project": "One Life (2024)"
+    },
+    {
+        "stage_name": "Glokk40Spaz",
+        "real_name": "Alexander Gabriel Quezada",
+        "age": 23,
+        "origin": "Decatur, Georgia",
+        "biggest_project": "Baby Whoa 2"
+    }
+]
