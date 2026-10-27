@@ -1,6 +1,6 @@
-hej här är mitt quiz
-kräver python.
-installation
-pip install datetime pandas pathlib
-cd install_dir 
+hej här är mitt quiz<br />
+kräver python.<br />
+installation<br />
+pip install datetime pandas pathlib<br />
+cd install_dir<br /> 
 python.exe ugrapquiz.py
