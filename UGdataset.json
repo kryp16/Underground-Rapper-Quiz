@@ -3,6 +3,7 @@
         "stage_name": "Nettspend",
         "real_name": "Gunner Shepardson",
         "age": 19,
+        "birthdate": "2007-18-03",
         "origin": "Richmond, Virginia",
         "biggest_project": "BAD ASS F*CKING KID (2024)"
     },
@@ -10,13 +11,15 @@
         "stage_name": "OsamaSon",
         "real_name": "Amari Deshawn Adham Middleton",
         "age": 23,
+        "birthdate": "2003-20-05",
         "origin": "Goose Creek, South Carolina",
         "biggest_project": "Flex Musix (2023)"
     },
     {
         "stage_name": "xaviersobased",
         "real_name": "Xavier Lopez",
-        "age": 22,
+        "age": 23,
+        "birthdate": "2003-23-10",
         "origin": "New York City, New York",
         "biggest_project": "Keep It Goin Xav (2024)"
     },
@@ -24,6 +27,7 @@
         "stage_name": "Che",
         "real_name": "Chase Shaun Mitchell",
         "age": 20,
+        "birthdate": "2006-29-08",
         "origin": "Atlanta, Georgia",
         "biggest_project": "Sayso Says (2024)"
     },
@@ -31,6 +35,7 @@
         "stage_name": "Diskoteque",
         "real_name": "Henry Runar Pimme Rasmussen",
         "age": 19,
+        "birthdate": "2006-01-12",
         "origin": "Varberg, Sweden",
         "biggest_project": "Dancefloor Death (2026)"
     },
@@ -38,6 +43,7 @@
         "stage_name": "1oneam",
         "real_name": "Zenon Joseph Castillo",
         "age": 22,
+        "birthdate": "2004-10-08",
         "origin": "Greendale, Wisconsin",
         "biggest_project": "One Life (2024)"
     },
@@ -45,6 +51,7 @@
         "stage_name": "Glokk40Spaz",
         "real_name": "Alexander Gabriel Quezada",
         "age": 23,
+        "birthdate": "2003-29-08",
         "origin": "Decatur, Georgia",
         "biggest_project": "Baby Whoa 2 (2024)"
     },
@@ -52,6 +59,7 @@
         "stage_name": "Protect",
         "real_name": "Ricky Shanklin",
         "age": 23,
+        "birthdate": "2003-20-08",
         "origin": "Buffalo, New York",
         "biggest_project": "Ball Hog For Life (2024)"
     },
@@ -59,22 +67,40 @@
         "stage_name": "rexv2",
         "real_name": "Lerone Osiris James",
         "age": 20,
+        "birthdate": "2006-06-05",
         "origin": "Houston, Texas",
-        "biggest_project": "babyhouston (2026)",
-
+        "biggest_project": "babyhouston (2026)"
     },
     {
         "stage_name": "wokeups",
         "real_name": "Amir McIntyre (Unconfirmed",
         "age": 22,
+        "birthdate": "2004-26-05",
         "origin": "Detroit, Michigan",
-        "biggest_project": "day gotta end (2024)",
+        "biggest_project": "day gotta end (2024)"
     },
     {
-        "stage_name": "pradabagshawty"
+        "stage_name": "pradabagshawty",
         "real_name": "London Golston Woods",
         "age": 20,
+        "birthdate": "2005-10-11",
         "origin": "Tucker, Georgia",
-        "biggest_project": "B What You B (2025) ",
+        "biggest_project": "B What You B (2025) "
+    },
+    {
+        "stage_name": "thr33",
+        "real_name": "Emmanuel Didier Solid Snake Three Drogba",
+        "age": 22,
+        "birthdate": "2004-13-05",
+        "origin": "North Carolina",
+        "biggest_project": "Ape World (2025)"
+    },
+    {
+        "stage_name": "Summrs",
+        "real_name": "Deante Adam Johnson",
+        "age": 26,
+        "birthdate": "1999-18-11",
+        "origin": "Lafayette, Louisiana",
+        "biggest_project": "Nothing more Nothing LESS (2021)"
     }
 ]

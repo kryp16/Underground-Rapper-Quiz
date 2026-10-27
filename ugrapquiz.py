@@ -1,6 +1,9 @@
+from pathlib import Path
 import pandas as pd
+from ageupdater import main as update_ages
 
-df = pd.read_json('/home/sixten/Programmering/Dataset/UGdataset.json')
+update_ages()
+df = pd.read_json(Path(__file__).with_name("UGdataset.json"))
 
 artist=df.sample().iloc[0]
 answr=artist['stage_name']
