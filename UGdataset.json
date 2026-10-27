@@ -47,5 +47,34 @@
         "age": 23,
         "origin": "Decatur, Georgia",
         "biggest_project": "Baby Whoa 2"
+    },
+    {
+        "stage_name": "Protect",
+        "real_name": "Ricky Shanklin",
+        "age": 23,
+        "origin": "Buffalo, New York",
+        "biggest_project": "Ball Hog For Life"
+    },
+    {
+        "stage_name": "rexv2",
+        "real_name": "Lerone Osiris James",
+        "age": 20,
+        "origin": "Houston, Texas",
+        "biggest_project": "babyhouston",
+
+    },
+    {
+        "stage_name": "wokeups",
+        "real_name": "Amir McIntyre (Unconfirmed",
+        "age": 22,
+        "origin": "Detroit, Michigan",
+        "biggest_project": "day gotta end",
+    },
+    {
+        "stage_name": "pradabagshawty"
+        "real_name": "London Golston Woods",
+        "age": 20,
+        "origin": "Tucker, Georgia",
+        "biggest_project": "B What You B",
     }
 ]
